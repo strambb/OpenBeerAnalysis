@@ -8,3 +8,7 @@ breweries_geocode.csv
 breweries.csv
 categories.csv
 styles.csv
+data/beers_descript.csv
+data/cat_style_nan.csv
+data/temp/beers_descript.csv
+data/temp/cat_style_nan.csv
