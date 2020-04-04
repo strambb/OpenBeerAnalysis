@@ -3,3 +3,8 @@ data/breweries.csv
 data/beers.csv
 data/breweries_geocode.csv
 data/categories.csv
+beers.csv
+breweries_geocode.csv
+breweries.csv
+categories.csv
+styles.csv
